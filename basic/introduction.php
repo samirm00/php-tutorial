@@ -95,4 +95,3 @@ echo '<h1> Hello from echo </h1>'.'<br>' ;
 print '<h1> Hello from print </h1>'.'<br>' ;
 
 
-
